@@ -1,6 +1,6 @@
 {
-    "name": "headline",
-    "description": "A Ghost theme",
+    "name": "headline-reverall",
+    "description": "Reverall blog theme",
     "version": "1.0.0",
     "private": true,
     "engines": {
